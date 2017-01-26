@@ -1,0 +1,6 @@
+# Test output pdf files.
+*.pdf
+
+# Netbeans files
+nbactions.xml
+
